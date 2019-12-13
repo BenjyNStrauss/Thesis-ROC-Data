@@ -18,5 +18,5 @@ U = IsUnstruct
 V = Vkabat
 R = Residue Type
 
-The original code (bugs and all!) I used will be posted as soon as I can find it.
+The java code may not be (exactly) the code used to run the analysis, as my archive of the original code has gone missing.  The available code is from a Time Machine backup. 
 
