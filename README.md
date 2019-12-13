@@ -18,5 +18,5 @@ U = IsUnstruct
 V = Vkabat
 R = Residue Type
 
-
+The original code (bugs and all!) I used will be posted as soon as I can find it.
 
